@@ -16,6 +16,7 @@ body{
 
 
 #cart {
+    display:none;
     background-color: #e3e6f3;
     width: 400px;
     /* height: 100vh; */
