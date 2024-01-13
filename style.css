@@ -14,6 +14,10 @@ body{
     overflow-x:hidden
 }
 
+#main{
+    overflow-x:hidden;
+    position: relative;
+}
 
 #cart {
     display:none;
